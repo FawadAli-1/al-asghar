@@ -1,7 +1,7 @@
 import Image from "next/image"
 import logo from "../../../public/logo.png"
 import { Lobster } from "next/font/google"
-import { Facebook, Instagram, Menu } from "lucide-react"
+import { Facebook, Instagram } from "lucide-react"
 import Link from "next/link"
 
 
