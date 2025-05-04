@@ -12,7 +12,7 @@ const Hero = () => {
             </div>
             <div className="flex flex-col gap-1">
                 <Button asChild size={"lg"} className="bg-green-700 hover:cursor-pointer hover:bg-green-700/90">
-                    <Link href={"https://wa.me/03405944490"}><Image src={whatsapp} width={20} height={20} alt="Whatsapp" />Contact</Link></Button>
+                    <Link href={"https://wa.me/03021557590"}><Image src={whatsapp} width={20} height={20} alt="Whatsapp" />Contact</Link></Button>
                 <Button size={"lg"} className="hidden hover:cursor-pointer">Discover</Button>
             </div>
         </section>
