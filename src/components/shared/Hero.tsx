@@ -1,4 +1,4 @@
-import { Button, buttonVariants } from "../ui/button"
+import { Button } from "../ui/button"
 import whatsapp from "../../../public/whatsapp-icon.svg"
 import Image from "next/image"
 import Link from "next/link"
